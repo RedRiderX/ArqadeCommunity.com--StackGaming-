@@ -1,0 +1,15 @@
+To display this image...    ...use this style
+ 
+    background-position: 0px 0px;
+ 
+    background-position: 0px -26px;
+ 
+    background-position: 0px -52px;
+ 
+    background-position: 0px -78px;
+ 
+    background-position: 0px -104px;
+ 
+    background-position: 0px -126px;
+ 
+    background-position: 0px -148px;
