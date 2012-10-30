@@ -226,6 +226,7 @@ section .content {
 /* START New Event ideas styles */
 #newIdeaFeed .singleIdea {
   overflow: hidden; 
+  margin-bottom: 13px;
 }
 
 #newIdeaFeed .votes {
